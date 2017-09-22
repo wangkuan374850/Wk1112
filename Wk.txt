@@ -1,4 +1,4 @@
 我应该怎么做才对SS
 
 
-Creating a new branch is quick & simple.
+Creating a new branch is quick and simple.

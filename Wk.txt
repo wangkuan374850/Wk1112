@@ -9,5 +9,3 @@ Creating a new branch is quick and simple.
 yayay
 
 
-bug我修改完了，现在我需要合并你了 
-在合并一次

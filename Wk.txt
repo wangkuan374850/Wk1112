@@ -7,3 +7,6 @@ Creating a new branch is quick and simple.
 哈哈哈
 
 yayay
+
+
+bug我修改完了，现在我需要合并你了
